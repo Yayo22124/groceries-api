@@ -1,0 +1,14 @@
+# User Routes HTTP REQUESTS
+
+###* getAll
+GET http://localhost:3000/api/factorial/5
+
+# ###* getOne
+# GET http://localhost:3000/api/agendalo/user/getOne/1
+
+# ###* createUser
+# POST http://localhost:3000/api/groceries
+# Content-Type: application/json
+# { 
+#     "number": 5
+# }
